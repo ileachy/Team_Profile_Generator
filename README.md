@@ -1,6 +1,6 @@
 # Team_Profile_Generator
 
-[Walk-through]
+[Walk-through](https://youtu.be/pj0zl1kW5Gg)
 
 ![](assets/team-profile-gen.png)
 
