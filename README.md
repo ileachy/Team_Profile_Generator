@@ -2,6 +2,8 @@
 
 [Walk-through link]
 
+![](assets/team-profile-gen.png)
+
 ## User Story
 
 ```md
